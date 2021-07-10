@@ -1,6 +1,6 @@
 # Euchre-Game
 
-This is the trick-taking card game Euchre programmed to be played in terminal.
+The trick-taking card game Euchre programmed to be played in terminal.
 
 ## Rules
 
