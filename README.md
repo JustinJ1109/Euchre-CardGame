@@ -1,4 +1,4 @@
-# Euchre-Game
+# Euchre-InTerminal
 
 The trick-taking card game Euchre programmed to be played in terminal.
 
