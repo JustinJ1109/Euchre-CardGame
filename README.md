@@ -15,3 +15,8 @@ This program contains:
 - Basic rules, preventing players from making illegal moves
 - AI to make the best possible move for each non-player participant
 - Scoring for each round and game
+
+## Running the Game
+To run the game, simply clone the repository where you wish.
+Compile with ```javac Game.java``` and then run with ```java Game```
+Easy as that!
