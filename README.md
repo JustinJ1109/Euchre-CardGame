@@ -1,6 +1,7 @@
 # Euchre-CardGame
 
-The trick-taking card game Euchre programmed to be played in terminal.
+The trick-taking card game Euchre programmed to be played in terminal.  
+Built for fun between college semesters (meaning the code is probably not very tidy :) )
 
 ## Rules
 
@@ -19,4 +20,3 @@ This program contains:
 ## Running the Game
 To run the game, simply clone the repository where you wish.
 Compile with ```javac Game.java``` and then run with ```java Game```
-Easy as that!
